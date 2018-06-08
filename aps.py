@@ -1,3 +1,5 @@
 print("hellow git")
 print("hello")
 print("heh")
+print("lala")
+print("天天")
